@@ -1,8 +1,16 @@
 # Hey 
+Web & UI/UX Designer (2021–)
+IT student exploring frontend development
+Stack: HTML, CSS, JavaScript
 
-I am an IT student and web/UI designer with experience since 2021, combining design thinking with frontend development.
+#### How to reach me?
+Email: meetzhukova@gmail.com
+IG: @meetzhukova
+Telegram: @pzhukovva
+Behance: @meetzhukova
 
 ## Languages & Tools
+I specialize in building clean, user-friendly interfaces and bring ideas to life using a mix of coding and design tools. These are the languages and tools I work with regularly.
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRe9eQY_3BnUyOrgoT8PaLkikQafGuWS0_Q&s" alt="HTML5" width="50 height="50""/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" alt="CSS3" width="50 height="50""/>
