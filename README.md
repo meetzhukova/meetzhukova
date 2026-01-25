@@ -1,7 +1,8 @@
-# Hey 
+# Hey, I'm Polina 👋🏻
 Web & UI/UX Designer (2021–) <br>
 IT student exploring frontend development <br>
 Stack: HTML, CSS, JavaScript <br>
+<br>
 <br>
 ### How to reach me?
 Email: meetzhukova@gmail.com <br>
@@ -10,7 +11,8 @@ Telegram: @pzhukovva <br>
 Behance: @meetzhukova <br>
 
 ## Languages & Tools
-I specialize in building clean, user-friendly interfaces and bring ideas to life using a mix of coding and design tools. These are the languages and tools I work with regularly.
+I specialize in building clean, user-friendly interfaces and bring ideas to life using a mix of coding and design tools. <br>
+These are the languages and tools I work with regularly.
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhRe9eQY_3BnUyOrgoT8PaLkikQafGuWS0_Q&s" alt="HTML5" width="50 height="50""/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/960px-CSS3_logo.svg.png" alt="CSS3" width="50 height="50""/>
