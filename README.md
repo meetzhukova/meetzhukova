@@ -3,7 +3,7 @@ Web & UI/UX Designer (2021 –) <br>
 IT student exploring frontend development <br>
 Stack: HTML, CSS, JavaScript <br>
 <br>
-### How to reach me?
+## How to reach me?
 **Email:** [meetzhukova@gmail.com](mailto:meetzhukova@gmail.com)  <br>
 **IG:** [@meetzhukova](https://www.instagram.com/meetzhukova)  <br>
 **Telegram:** [@pzhukovva](https://t.me/pzhukovva)  <br>
