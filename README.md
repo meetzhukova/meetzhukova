@@ -1,13 +1,13 @@
 # Hey 
-Web & UI/UX Designer (2021–)
-IT student exploring frontend development
-Stack: HTML, CSS, JavaScript
+Web & UI/UX Designer (2021–) <br>
+IT student exploring frontend development <br>
+Stack: HTML, CSS, JavaScript <br>
 
 #### How to reach me?
-Email: meetzhukova@gmail.com
-IG: @meetzhukova
-Telegram: @pzhukovva
-Behance: @meetzhukova
+Email: meetzhukova@gmail.com <br>
+IG: @meetzhukova <br>
+Telegram: @pzhukovva <br>
+Behance: @meetzhukova <br>
 
 ## Languages & Tools
 I specialize in building clean, user-friendly interfaces and bring ideas to life using a mix of coding and design tools. These are the languages and tools I work with regularly.
