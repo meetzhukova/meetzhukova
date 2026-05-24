@@ -1,5 +1,5 @@
 # Hey, I'm Polina 👋🏻
-Web & UI/UX Designer (2021 –) <br>
+Web, UI/UX Designer & Frontend Developer (2021 –) <br>
 IT student exploring frontend development <br>
 Stack: HTML, CSS, JavaScript <br>
 <br>
