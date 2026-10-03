@@ -1,7 +1,7 @@
 # Hey, I'm Polina 👋🏻
 Web, UI/UX Designer & Frontend Developer (2021 –) <br>
 Designing clean, intuitive and purposeful digital experiences <br>
-Stack: HTML, CSS, JavaScript <br>
+Stack: HTML, CSS, JavaScript, C++ <br>
 <br>
 ## How to reach me?
 **Email:** [meetzhukova@gmail.com](mailto:meetzhukova@gmail.com)  <br>
