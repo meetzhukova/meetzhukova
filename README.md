@@ -3,12 +3,6 @@ Web, UI/UX Designer & Frontend Developer (2021 –) <br>
 Designing clean, intuitive and purposeful digital experiences <br>
 Stack: HTML, CSS, JavaScript, C++ <br>
 <br>
-## How to reach me?
-**Email:** [meetzhukova@gmail.com](mailto:meetzhukova@gmail.com)  <br>
-**IG:** [@meetzhukova](https://www.instagram.com/meetzhukova)  <br>
-**Telegram:** [@pzhukovva](https://t.me/pzhukovva)  <br>
-**Behance:** [@meetzhukova](https://www.behance.net/meetzhukova) <br>
-
 
 ## Languages & Tools
 I specialize in building clean, user-friendly interfaces and bring ideas to life using a mix of coding and design tools. <br>
